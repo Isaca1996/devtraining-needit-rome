@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="DELETE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount>0</all_time_amount>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>all_time_low</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>NeedIt: Due Monthly</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt: Due Monthly">9f30265e2f25011094f7a55df699b674</indicator>
+        <last_check>20220401</last_check>
+        <owner/>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-14 14:50:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bd5b56f2f61011094f7a55df699b689</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_thresholds_1bd5b56f2f61011094f7a55df699b689</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-04 10:04:58</sys_updated_on>
+        <value/>
+    </pa_thresholds>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3cce5ae0dbc577c03050ac44d49619c1</instance_id>
+        <instance_name>dev82960</instance_name>
+        <name>pa_thresholds_1bd5b56f2f61011094f7a55df699b689</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds"><pa_thresholds action="INSERT_OR_UPDATE"><active>true</active><aggregate/><all_time_amount>0</all_time_amount><breakdown/><breakdown_level2/><condition>all_time_low</condition><create_score_notes>true</create_score_notes><display>NeedIt: Due Monthly</display><element/><element_level2/><indicator display_value="NeedIt: Due Monthly">9f30265e2f25011094f7a55df699b674</indicator><last_check>20220401</last_check><owner/><sys_class_name>pa_thresholds</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-14 14:50:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1bd5b56f2f61011094f7a55df699b689</sys_id><sys_mod_count>3</sys_mod_count><sys_name>NeedIt: Due Monthly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_thresholds_1bd5b56f2f61011094f7a55df699b689</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-04-04 10:04:58</sys_updated_on><value/></pa_thresholds></record_update>]]></payload>
+        <payload_hash>-1966007979</payload_hash>
+        <record_name>NeedIt: Due Monthly</record_name>
+        <reverted_from/>
+        <source>29cf4d5a2fb2011094f7a55df699b628</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:10:46</sys_created_on>
+        <sys_id>84df8d5a2fb2011094f7a55df699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180241ee66f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:10:46</sys_updated_on>
+        <type>Threshold</type>
+        <update_guid>105ac193c622011062e3f0372ea458b9</update_guid>
+        <update_guid_history>105ac193c622011062e3f0372ea458b9:-1966007979,5afe8d1a34b201101f8bfb83375abf9b:932401353,105ac193c622011062e3f0372ea458b9:-1966007979,c95c459634b201105a9ab93d20749ab5:932401353,105ac193c622011062e3f0372ea458b9:-1966007979,b687d481650201109e55e39a97db7e76:1596783862,18d567ef31a501101375feede915a471:-214658226,57d5b56fa7610110f8aec4f32562748b:-2066981967</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly">d30751122ff2011094f7a55df699b60d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:42:24</sys_created_on>
+        <sys_db_object display_value="" name="pa_thresholds">pa_thresholds</sys_db_object>
+        <sys_id>9ba15864070c44c0943e0dcb2b524e10</sys_id>
+        <sys_metadata>1bd5b56f2f61011094f7a55df699b689</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>pa_thresholds_1bd5b56f2f61011094f7a55df699b689</sys_update_name>
+        <sys_update_version display_value="pa_thresholds_1bd5b56f2f61011094f7a55df699b689">84df8d5a2fb2011094f7a55df699b699</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:42:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

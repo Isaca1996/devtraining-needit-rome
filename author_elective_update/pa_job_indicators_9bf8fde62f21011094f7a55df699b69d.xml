@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display> NeedIt Historical Data - NeedIt: Active Weekly.</display>
+        <indicator display_value="NeedIt: Active Weekly.">7a806ada2f25011094f7a55df699b631</indicator>
+        <job display_value=" NeedIt Historical Data">8fc7712a2f21011094f7a55df699b6ba</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 12:30:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9bf8fde62f21011094f7a55df699b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.. NeedIt Historical Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_9bf8fde62f21011094f7a55df699b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 12:30:40</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3cce5ae0dbc577c03050ac44d49619c1</instance_id>
+        <instance_name>dev82960</instance_name>
+        <name>pa_job_indicators_9bf8fde62f21011094f7a55df699b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display> NeedIt Historical Data - NeedIt: Active Weekly.</display><indicator display_value="NeedIt: Active Weekly.">7a806ada2f25011094f7a55df699b631</indicator><job display_value=" NeedIt Historical Data">8fc7712a2f21011094f7a55df699b6ba</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 12:30:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bf8fde62f21011094f7a55df699b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Active Weekly.. NeedIt Historical Data</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_9bf8fde62f21011094f7a55df699b69d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 12:30:40</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1291166786</payload_hash>
+        <record_name> NeedIt Historical Data - NeedIt: Active Weekly.</record_name>
+        <reverted_from/>
+        <source>29cf4d5a2fb2011094f7a55df699b628</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:10:45</sys_created_on>
+        <sys_id>bbcf8d5a2fb2011094f7a55df699b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180241ee2e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:10:45</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>d7f8fd2a512101106f521f330aed91eb</update_guid>
+        <update_guid_history>d7f8fd2a512101106f521f330aed91eb:1291166786,07fecd1a61b201105913b8582bf3e6ba:-1366915658,d7f8fd2a512101106f521f330aed91eb:1291166786,4a5c859668b2011006f33e774d1a08f6:-1366915658,d7f8fd2a512101106f521f330aed91eb:1291166786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=" NeedIt Historical Data - ">431755122ff2011094f7a55df699b60a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:42:39</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>2217767ba805465e95093d95ffc509e9</sys_id>
+        <sys_metadata>9bf8fde62f21011094f7a55df699b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.. NeedIt Historical Data</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">8fc7712a2f21011094f7a55df699b6ba</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>pa_job_indicators_9bf8fde62f21011094f7a55df699b69d</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_9bf8fde62f21011094f7a55df699b69d">bbcf8d5a2fb2011094f7a55df699b641</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:42:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

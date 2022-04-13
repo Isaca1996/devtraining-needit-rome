@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>NeedIt Daily - NeedIt: Due Monthly</display>
+        <indicator display_value="NeedIt: Due Monthly">9f30265e2f25011094f7a55df699b674</indicator>
+        <job display_value="NeedIt Daily">5ff9fd2a2f21011094f7a55df699b61e</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 12:35:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>392a7d6a2f21011094f7a55df699b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly.NeedIt Daily</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_392a7d6a2f21011094f7a55df699b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 12:35:46</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3cce5ae0dbc577c03050ac44d49619c1</instance_id>
+        <instance_name>dev82960</instance_name>
+        <name>pa_job_indicators_392a7d6a2f21011094f7a55df699b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>NeedIt Daily - NeedIt: Due Monthly</display><indicator display_value="NeedIt: Due Monthly">9f30265e2f25011094f7a55df699b674</indicator><job display_value="NeedIt Daily">5ff9fd2a2f21011094f7a55df699b61e</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 12:35:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>392a7d6a2f21011094f7a55df699b6d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Due Monthly.NeedIt Daily</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_392a7d6a2f21011094f7a55df699b6d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 12:35:46</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-2055840791</payload_hash>
+        <record_name>NeedIt Daily - NeedIt: Due Monthly</record_name>
+        <reverted_from/>
+        <source>29cf4d5a2fb2011094f7a55df699b628</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:10:45</sys_created_on>
+        <sys_id>7fcf8d5a2fb2011094f7a55df699b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180241ee24b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:10:45</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>792a31aa4a210110e539ee1c460e022e</update_guid>
+        <update_guid_history>792a31aa4a210110e539ee1c460e022e:-2055840791,9afecd1aa6b20110b07a19bf522c2c02:-1191211427,792a31aa4a210110e539ee1c460e022e:-2055840791,d55c85965cb20110f9ee0d1945f5d614:-1191211427,792a31aa4a210110e539ee1c460e022e:-2055840791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Daily - NeedIt: Due Monthly">370751122ff2011094f7a55df699b6c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 18:42:26</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>22af09878b4340e990c4d9d604dbd491</sys_id>
+        <sys_metadata>392a7d6a2f21011094f7a55df699b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly.NeedIt Daily</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">5ff9fd2a2f21011094f7a55df699b61e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>pa_job_indicators_392a7d6a2f21011094f7a55df699b6d4</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_392a7d6a2f21011094f7a55df699b6d4">7fcf8d5a2fb2011094f7a55df699b63a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 18:42:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
